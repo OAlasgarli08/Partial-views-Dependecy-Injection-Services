@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\Partial views, Dependecy Injection, Services.props" />
+</Project>
